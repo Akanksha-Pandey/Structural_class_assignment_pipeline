@@ -1,4 +1,4 @@
-# Structural_class_assignment_pipeline
+# Structural class assignment pipeline
 
 ## Introduction
 Structural class assignment pipeline uses SCRATCH1D suite to assign secondary structure and relative solvent accessibility to each site in a protein mutliple sequence alignment.
